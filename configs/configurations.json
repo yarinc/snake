@@ -1,0 +1,16 @@
+{ 
+    "screenHeight": 300,
+    "screenWidth": 400,
+    "snakeSpeed": 8,
+    "itemsSize": 20,
+    "showEvents": 5,
+    "artifactsDirectory": "",
+    "foodPlayerImage": "configs/assests/apple.png",
+    "foodSound": "config/sassests/food.mp3",
+    "bgImage": "configs/assests/background.jpg",
+    "gameOverImage": "configs/assests/gameOver.png",
+    "topScoresLocation": "configs/topScores.json",
+    "startGameImage": "configs/assests/newStart.png",
+    "gameLeaderboardImage": "configs/assests/leaderboard.png",
+    "goBackImage": "configs/assests/back.png"
+}
